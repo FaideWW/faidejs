@@ -1,0 +1,11 @@
+{
+  "name": "faidejs",
+  "version": "1.0.0",
+  "description": "A hacking space for whatever I am currently experimenting with",
+  "main": "faide.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faide",
+  "license": "MIT"
+}
